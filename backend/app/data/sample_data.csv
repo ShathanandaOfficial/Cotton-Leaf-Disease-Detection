@@ -1,0 +1,3 @@
+timestamp,filename,prediction,confidence,image_path
+2023-01-01T10:00:00,image1.jpg,Healthy,0.92,static/uploads/image1.jpg
+2023-01-01T10:05:00,image2.jpg,Bacterial Blight,0.87,static/uploads/image2.jpg
